@@ -1,3 +1,3 @@
 # Transpolymer
 
-Transpolymer is a transformer based model to predict polymer properties.
+Transpolymer is a transformer based AI model to predict polymer properties.
