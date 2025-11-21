@@ -1,13 +1,2 @@
----
-title: Transpolymer2
-emoji: 🚀
-colorFrom: red
-colorTo: red
-sdk: streamlit
-app_file: app.py
-tags:
-  - streamlit
-pinned: false
-short_description: Ai model
-license: mit
----
+TransPolymer is an AI-powered application designed to predict key polymer properties directly from their SMILES representation.
+The project uses Transformer-based deep learning models, FastAPI for backend deployment, MongoDB for data storage, and a Streamlit UI for user interaction.
