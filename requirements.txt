@@ -1,0 +1,12 @@
+numpy
+pandas
+streamlit
+torch
+transformers
+rdkit-pypi
+pymongo
+joblib
+scikit-learn
+streamlit-extras
+bcrypt
+pubchempy
